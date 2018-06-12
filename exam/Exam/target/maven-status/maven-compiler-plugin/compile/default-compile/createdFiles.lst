@@ -1,0 +1,4 @@
+Exam\Exam\App.class
+Exam\Exam\service\PaymentService.class
+Exam\Exam\model\PaymentRepository.class
+Exam\Exam\model\Payment.class
